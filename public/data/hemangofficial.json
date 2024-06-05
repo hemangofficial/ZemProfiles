@@ -1,0 +1,13 @@
+{
+  "name": "NAME HERE",
+  "location": "CITY, COUNTRY",
+  "bio": "SHOULD BE AROUND 20 - 30 WORDS IN LENGTH",
+  "avatar": "https://github.com/[YOUR GITHUB USERNAME].png",
+  "portfolio": "LINK TO YOUR PORTFOLIO OR OTHER WEBSITE",
+  "skills": ["SKILL 1", "SKILL 2", "SKILL 3", "..."],
+  "social": {
+    "GitHub": "YOUR GITHUB PROFILE LINK",
+    "Twitter": "YOUR X (TWITTER) PROFILE LINK",
+    "LinkedIn": "YOUR LINKEDIN PROFIFLE LINK"
+  }
+}
